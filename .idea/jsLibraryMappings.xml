@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/modules/populate-db.js" libraries="{@types/faker}" />
+    <file url="file://$PROJECT_DIR$/routes/employee.js" libraries="{@types/express, @types/node}" />
+    <file url="PROJECT" libraries="{@types/express, @types/faker, @types/node}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>
